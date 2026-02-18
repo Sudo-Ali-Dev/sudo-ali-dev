@@ -1,3 +1,5 @@
+_If the diagram isn’t rendering, <a href="files/My-2026-Plan.svg">view it here</a>._
+
 ```mermaid
 %%{init: {
   "theme": "base",

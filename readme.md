@@ -75,4 +75,4 @@ mindmap
       Document Q&A
 
 ```
-_If the diagram isn’t rendering, <a href="https://raw.githubusercontent.com/Sudo-Ali-Dev/sudo-ali-dev/78d0457d99cf8b8ab45ec968782fc9501f5b1aa7/files/My-2026-Plan.svg">view it here</a>._
+_If the diagram isn’t rendering, <a href="https://sudoali.dev/plan/">view it here</a>._
